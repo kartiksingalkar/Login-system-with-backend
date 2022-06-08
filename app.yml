@@ -1,0 +1,14 @@
+runtime: php
+env: flex
+
+runtime_config:
+  documnet_root: web
+
+manual scalling:
+  instance: 1
+
+resources:
+  cpu: 1
+
+memory_gb: 0.5
+disk_size_gb: 10
